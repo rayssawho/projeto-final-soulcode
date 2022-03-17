@@ -21,7 +21,7 @@ Totalizando **2.526.433 registros** no nosso Datalake.
 [Todos os arquivos csv utilizados nesse Projeto](https://drive.google.com/drive/folders/11TXoldolsJNq3iX0VLTzE_cPZOvWiQYf?usp=sharing)
 
 ## O que está no Repotório:
-Este Repositório é composto por um arquivo em pdf referente a apresentação do projeto, do time, do tema do projeto, as ferramentas utilizadas e como foram aplicadas.
+Este Repositório é composto por um arquivo em pdf (apresentacao-pf-eng-de-dados.pdf) referente a apresentação do projeto, do time, do tema do projeto, as ferramentas utilizadas e como foram aplicadas.
 O repositório também possui um diretório onde estão presentes todos os arquivos utilizados no desenvolvimento do projeto:
 * Arquivos em CSV das análises
 * Pipeline
