@@ -40,6 +40,8 @@ O repositório também possui um diretório onde estão presentes todos os arqui
 * Pandas
 * Streamlit
 * Matplotlib
+* Python
+* Jupyter Notebook
 
 ## Autores: 
 * [Diego Alves](https://www.linkedin.com/in/diegomoal/) 
