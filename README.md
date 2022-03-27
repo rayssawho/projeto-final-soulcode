@@ -27,7 +27,7 @@ O repositório também possui um diretório onde estão presentes todos os arqui
 * Pipeline
 * Classes
 * Análises
-* Prints do Trello e Notion
+* Prints do Trello e Notion.
 
 *Os dados que utilizamos nesse Projeto estão disponíveis em:*
 [Arquivos csv utilizados nesse Projeto](https://drive.google.com/drive/folders/11TXoldolsJNq3iX0VLTzE_cPZOvWiQYf?usp=sharing)
